@@ -1,0 +1,30 @@
+.shop{
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+
+.cart-container{
+  background-color: gray;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+.carts{
+  position: sticky;
+  top: 20px;
+}
+
+.cart-title{
+  text-align: center;
+  font-weight: 600;
+  color: aliceblue;
+}
+
+.carts-info{
+  margin-left: 20px;
+}
+
+.carts-info p {
+  color: white;
+  font-size: 20px;
+}

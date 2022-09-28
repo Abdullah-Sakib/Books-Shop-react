@@ -1,0 +1,34 @@
+.cart{
+  margin: 20px ;
+  border: 2px solid gray;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.book-name{
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.cart-btn{
+  width: 100%;
+  background-color: gray;
+  border: none;
+  color: white;
+  font-size: 15px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-btn:hover{
+  color: black;
+  cursor: pointer;
+  background-color: gainsboro;
+}
+
+.btn-text{
+  margin-right: 10px;
+}

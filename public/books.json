@@ -1,0 +1,65 @@
+[
+  {
+    "id": "6333b3626e18b58fc07546e4",
+    "balance": "$3,649.57",
+    "picture": "http://placehold.it/332x332",
+    "price": 224,
+    "name": "Lacy",
+    "about": "Nostrud ea aliqua aute ad ad ipsum. Excepteur laboris quis id minim dolore elit dolor fugiat eu. Dolor proident non id aute anim non mollit excepteur.\r\n",
+    "registered": "2015-08-29T11:54:01 -06:00"
+  },
+  {
+    "id": "6333b362780836781f6f6940",
+    "balance": "$3,202.96",
+    "picture": "http://placehold.it/332x332",
+    "price": 382,
+    "name": "Marie",
+    "about": "Nulla enim est ut ad et cillum do sit minim aliqua elit voluptate. Laboris nulla culpa exercitation enim in ut sint qui do sit consequat. Labore incididunt pariatur laboris consequat nulla reprehenderit sit amet minim tempor laborum do aliqua elit. Exercitation cillum labore in deserunt ea fugiat aliquip ullamco minim esse elit elit. Occaecat sint proident velit ex dolore occaecat quis velit.\r\n",
+    "registered": "2021-11-26T09:31:48 -06:00"
+  },
+  {
+    "id": "6333b3628c65730ca824e9e5",
+    "balance": "$3,535.18",
+    "picture": "http://placehold.it/332x332",
+    "price": 332,
+    "name": "Julia",
+    "about": "Lorem eiusmod ut anim enim. Magna in aliqua nisi nulla laborum voluptate deserunt aute pariatur et ipsum tempor qui quis. Exercitation elit in anim ad ea voluptate enim proident occaecat. Duis Lorem voluptate do laboris qui est ut nisi enim ut laboris enim. In ullamco sit velit tempor deserunt velit aliqua ea cupidatat anim magna elit adipisicing. Commodo culpa quis dolor amet.\r\n",
+    "registered": "2017-07-11T10:00:42 -06:00"
+  },
+  {
+    "id": "6333b362b8718e0e821230ff",
+    "balance": "$3,930.24",
+    "picture": "http://placehold.it/332x332",
+    "price": 420,
+    "name": "Stevenson",
+    "about": "Commodo laborum culpa commodo dolor duis enim consectetur ut. Sint et ex irure cillum quis aliqua qui enim eiusmod. Elit voluptate elit amet pariatur et voluptate. Aliqua excepteur eiusmod ad dolor non mollit magna velit tempor ex amet voluptate. Sit aute cupidatat ad dolore dolor. Non incididunt enim ex non ut ad nulla velit voluptate consequat. Nisi reprehenderit amet sit non.\r\n",
+    "registered": "2021-07-02T03:24:35 -06:00"
+  },
+  {
+    "id": "6333b362963963e83da83758",
+    "balance": "$2,369.21",
+    "picture": "http://placehold.it/332x332",
+    "price": 317,
+    "name": "Alice",
+    "about": "Ullamco adipisicing magna exercitation Lorem nostrud aliqua nulla enim elit sint cillum laborum adipisicing ex. Et quis cupidatat excepteur enim occaecat ea enim dolore proident non esse quis laboris. Fugiat duis mollit fugiat aute est laborum non. Dolore excepteur id in elit ut eiusmod consectetur minim id quis. Nostrud aute mollit culpa sint sint.\r\n",
+    "registered": "2016-09-06T09:27:49 -06:00"
+  },
+  {
+    "id": "6333b362bee88919f2457b86",
+    "balance": "$1,365.54",
+    "picture": "http://placehold.it/332x332",
+    "price": 276,
+    "name": "Goodman",
+    "about": "Ipsum dolor eu consequat nulla dolor incididunt fugiat qui reprehenderit veniam. Exercitation enim voluptate velit qui exercitation nisi quis. Velit fugiat nulla anim incididunt.\r\n",
+    "registered": "2017-07-01T10:16:30 -06:00"
+  },
+  {
+    "id": "6333b36285087841ac3840ac",
+    "balance": "$3,048.66",
+    "picture": "http://placehold.it/332x332",
+    "price": 345,
+    "name": "Harrison",
+    "about": "In eiusmod et deserunt Lorem officia in dolor commodo dolore consectetur culpa consequat in. Voluptate eiusmod duis in ullamco reprehenderit cupidatat sint do cillum. Sint labore qui sit exercitation pariatur pariatur sit magna voluptate esse duis culpa do.\r\n",
+    "registered": "2021-10-25T04:41:56 -06:00"
+  }
+]
